@@ -44,3 +44,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mbitujames&show_icons=true&locale=en" alt="mbitujames" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mbitujames&" alt="mbitujames" /></p>
+
+<div align="center">
+
+### ❤️ Thank you for visiting my profile ❤️
+
+</div>

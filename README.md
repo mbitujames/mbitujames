@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning *Angular, Django $ Cyber Security*
 
-- 👯 I’m looking to collaborate on *Flutter*
+- 👯 I’m looking to collaborate on *Flutter $ Open Source Projects*
 
 - 🤝 I’m looking for help with *Java Projects*
 

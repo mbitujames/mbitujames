@@ -23,7 +23,7 @@
 
 - 📫 How to reach me *mbitumutonga@gmail.com*
 
-- 📝 Checkout my [Resume](/James CV.pdf).
+- 📝 Checkout my [Resume](./JAMESCV.pdf).
 
 - ⚡ Fun fact *Programmer by day, Zealous gamer by night*
 

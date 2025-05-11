@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbitujames&label=Profile%20views&color=0eb64f&style=plastic" alt="mbitujames" /> </p>
 
-I'm a passionate developer with a keen interest in **open source**, **web development**, and **machine learning**. I enjoy solving complex problems, learning new technologies, and contributing to meaningful projects.
-
 # 💫 About Me:
 - 😄 Pronouns: **He/Him**<br>
 
